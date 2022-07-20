@@ -1,0 +1,19 @@
+.col1{
+    color: white;
+    background-color: red;
+}
+
+.col2{
+    color: yellow;
+    background-color: blue;
+}
+
+.nested-col-1{
+    color: white;
+    background-color: blue;
+}
+
+.nested-col-2{
+    color: black;
+    background-color: yellow;
+}

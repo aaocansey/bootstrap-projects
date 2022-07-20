@@ -1,0 +1,6 @@
+.bullet{
+    height: 1.7em;
+    width: 2em;
+    border-radius: 50%;
+    background-color: blue;
+}
